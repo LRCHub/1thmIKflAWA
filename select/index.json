@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マツケンサンバII",
+  "base_artist": "松平健",
+  "createdAt": "2026-02-21T10:22:21.485585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マツケンサンバII(English ver.) - Matsuken Samba II(English ver.)",
+      "artist": "KEN MATSUDAIRA",
+      "has_synced": true,
+      "path": "select/01_マツケンサンバII(English_ver.)_-_Matsuken_Samba_II(English_ver.)_KEN_MATSUDAIRA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マツケンサンバII×行くぜっ!怪盗少女 -TeddyLoid ULTRA MASHUP ver.- - MATSUKENSANBAⅡ*Ikuze! Kaitou Shoujo -TeddyLoid ULTRA MASHUP ver.-",
+      "artist": "Ken Matsudaira • Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_マツケンサンバII×行くぜっ!怪盗少女_-TeddyLoid_ULTRA_MASHUP_ver.-_-_MATSUKENSANBAII_Ikuze!_Kaito_Ken_Matsudaira_•_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マツケンサンバII - English ver.",
+      "artist": "Ken Matsudaira",
+      "has_synced": true,
+      "path": "select/03_マツケンサンバII_-_English_ver._Ken_Matsudaira.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マツケンサンバII",
+      "artist": "松平 健",
+      "has_synced": false,
+      "path": "select/pl_01_マツケンサンバII_松平_健.txt"
+    }
+  ]
+}
